@@ -10,7 +10,7 @@ def get_system_info():
     system_info = {
         "student_name": "Халимов Ильнур Ильясович",
         "academic_group": "ИВТИИбд-13",
-        "github_link": "https://github.com/ivanov_ivan"
+        "github_link": "https://github.com/Shizick-arch"
     }
     return system_info
 
